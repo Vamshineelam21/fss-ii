@@ -1,0 +1,4 @@
+project,scenario,Sleep,Stress,Study,Social,Anxiety,Depression,Final_Productivity,Interpretation
+MentalHealth_FCM,Healthy,0.8,0.2,0.7,0.6,0.2,0.1,0.82,Low stress and good sleep lead to high productivity
+MentalHealth_FCM,Stress,0.3,0.9,0.4,0.2,0.8,0.7,0.31,High stress and anxiety reduce productivity significantly
+MentalHealth_FCM,Intervention,0.7,0.3,0.6,0.7,0.3,0.2,0.75,Improving sleep and reducing stress increases productivity
